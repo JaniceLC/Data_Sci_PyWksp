@@ -25,7 +25,7 @@ Notebook: [1. Introduction to Data Science in Python.ipynb](https://colab.resear
 ### Intro to Data Visualization 
 > This course introduces the matplotlib library for doing visualization in Python. Students will start by learning about drawing scatter plot, and gradually explore how matplotlib interacts with Pandas. Also, we will introduce the alternative libraries for matplotlib in python and compare the differences. 
 
-Notebook: [2. matplotib and seaborn](https://colab.research.google.com/drive/1vZ1XVCIrq_0N6hW51BrimHGMIHZV6mwU)
+Notebook: [2. 2. matplotib_seaborn_student.ipynb](https://colab.research.google.com/drive/1vZ1XVCIrq_0N6hW51BrimHGMIHZV6mwU)
 
 
 -----------------------------------------------------

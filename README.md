@@ -11,6 +11,9 @@ Jupyter Notebooks and code for the 2019 STAT2601 Python Data Science Workshop.
 ## Courses <a id="courses"></a>
 
 This repository contains Jupyter Notebooks for the following short courses:
+    **Please click notebooks shown below, which is a shared Jupyter Notebook on Google Colab.:heart_eyes:** 
+
+
 
 ### Python Data Wrangling
 > This course teaches some of the building blocks for handling data in Python. We will show how to parse and manipulate data using Numpy and Pandas, and perform interactive visualization with Plotly. We analyze a real dataset using Scipy, demonstrating how to perform basic statistical tasks in Python.

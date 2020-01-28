@@ -5,7 +5,7 @@ ipykernel
 # Deep learning
 Keras==2.2.4
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==1.15.2
 
 # General data science, machine learning libraries
 numpy==1.15.4
